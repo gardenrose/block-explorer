@@ -1,0 +1,16 @@
+
+  table, th, td {
+    border: 3px solid black;
+    width:70%;
+    font-weight: bold;
+   background-color: white;
+  }
+
+  td {
+    font-weight:normal;
+  }
+  
+  .tablica2 {
+    width:100%;
+  }
+  
